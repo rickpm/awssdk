@@ -34,10 +34,10 @@ For prerequisites, see the [README](../../README.md#Prerequisites) in the `ruby`
 <!--custom.prerequisites.end-->
 
 ### Instructions
-
-
 <!--custom.instructions.start-->
+The easiest way to interact with this example code is by invoking a [Scenario](#Scenarios) from your command line. For example, `ruby some_scenario.rb` will invoke `some_scenario.rb`.
 <!--custom.instructions.end-->
+
 
 
 ### Tests

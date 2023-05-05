@@ -121,16 +121,13 @@ ruby partiql/scenario_partiql_single.rb
 <!--custom.scenarios.dynamodb_Scenario_PartiQLSingle.end-->
 
 ### Tests
-
-⚠ Running tests might result in charges to your AWS account.
-
-
-To find instructions for running these tests, see the [README](../../README.md#Tests)
-in the `ruby` folder.
-
-
-
 <!--custom.tests.start-->
+The example code in this directory is not currently tested.
+
+## Contribute
+Code examples thrive on community contribution!
+
+To learn more about the contributing process, see [CONTRIBUTING.md](../../../CONTRIBUTING.md)
 <!--custom.tests.end-->
 
 ## Additional resources

@@ -70,10 +70,10 @@ For prerequisites, see the [README](../../README.md#Prerequisites) in the `ruby`
 <!--custom.prerequisites.end-->
 
 ### Instructions
-
-
 <!--custom.instructions.start-->
+The easiest way to interact with this example code is by invoking a [Scenario](#Scenarios) from your command line. For example, `ruby some_scenario.rb` will invoke `some_scenario.rb`.
 <!--custom.instructions.end-->
+
 
 
 #### Create a user and assume a role
@@ -94,16 +94,13 @@ ruby scenario_create_user_assume_role.rb
 <!--custom.scenarios.iam_Scenario_CreateUserAssumeRole.end-->
 
 ### Tests
-
-⚠ Running tests might result in charges to your AWS account.
-
-
-To find instructions for running these tests, see the [README](../../README.md#Tests)
-in the `ruby` folder.
-
-
-
 <!--custom.tests.start-->
+The example code in this directory is not currently tested.
+
+## Contribute
+Code examples thrive on community contribution!
+
+To learn more about the contributing process, see [CONTRIBUTING.md](../../../CONTRIBUTING.md)
 <!--custom.tests.end-->
 
 ## Additional resources
